@@ -1,2 +1,2 @@
-# core-methods-in-EDM
+# Core Methods in EDM
 HUDK4050
